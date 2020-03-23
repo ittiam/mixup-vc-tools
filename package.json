@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design-vue/tools",
+  "name": "vc-tools",
   "version": "1.0.1",
   "description": "offline tools for react component",
   "keywords": [
