@@ -1,7 +1,7 @@
 {
   "name": "vc-tools",
-  "version": "1.0.1",
-  "description": "offline tools for react component",
+  "version": "1.0.2",
+  "description": "offline tools for vue component",
   "keywords": [
     "vue",
     "tools"

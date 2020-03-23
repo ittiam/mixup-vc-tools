@@ -176,7 +176,7 @@
         </div>
     </header>
     <section class="main" id="main">
-        <div id="__react-content" class="demo"></div>
+        <div id="__vue-content" class="demo"><div id="__vue-root"></div></div>
         {{{content}}}
     </section>
     <script>FastClick.attach(document.body);</script>
@@ -199,7 +199,7 @@
         }
 
         document.getElementById('changePadding').onclick = function () {
-            var content = document.getElementById('__react-content');
+            var content = document.getElementById('__vue-content');
 
             if (content.style.padding === "0px") {
                 content.style.padding = "16px";
