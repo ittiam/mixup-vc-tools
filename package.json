@@ -1,6 +1,6 @@
 {
-  "name": "vc-tools",
-  "version": "3.0.0",
+  "name": "mixup-vc-tools",
+  "version": "2.0.1",
   "description": "offline tools for vue component",
   "keywords": [
     "vue",
@@ -30,7 +30,6 @@
     "**/*.js": "eslint --ext .js"
   },
   "dependencies": {
-    "@ant-design-vue/babel-plugin-jsx": "^1.0.0-0",
     "@babel/core": "~7.2.2",
     "@babel/plugin-proposal-class-properties": "~7.2.1",
     "@babel/plugin-proposal-export-default-from": "~7.2.0",
@@ -47,6 +46,7 @@
     "@babel/preset-env": "~7.2.0",
     "@babel/preset-stage-0": "~7.0.0",
     "@types/jest": "^23.3.10",
+    "@vue/babel-preset-jsx": "^1.1.2",
     "autoprefixer": "^9.x",
     "babel-core": "~7.0.0-bridge.0",
     "babel-eslint": "~10.0.1",
